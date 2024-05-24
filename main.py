@@ -8,4 +8,4 @@ st.title("Scrapped Data")
 file = Path(__file__).parent / "JobTitles.csv"
 df = pd.read_csv(file)
 
-st.dataframe(df)
+st.dataframe(df, height=1500)
