@@ -17,4 +17,4 @@ def canada():
     if selected_file:
         file_path = os.path.join(directory, selected_file)
         df = pd.read_csv(file_path)
-        st.dataframe(df, height=500)
+        st.dataframe(df, height=700)
