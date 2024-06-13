@@ -9,7 +9,7 @@ def canada():
     # List all markdown files in the directory
     markdown_files = [f for f in os.listdir(directory) if f.endswith('.csv')]
     # Streamlit application
-    st.title('Job Listings!!')
+    st.title('Canada Job Listings!!')
     # Display the list of markdown files in a sidebar
     st.write("Select a Tag")
     selected_file = st.selectbox('', markdown_files)

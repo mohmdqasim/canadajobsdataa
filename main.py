@@ -11,7 +11,7 @@ pages = {
 
 with st.sidebar:
     selected = option_menu(
-        menu_title = "Job Data",
+        menu_title = "Job Portal",
         options = list(pages.keys()),
         icons = ["house", "person-arms-up", "book"],
         menu_icon = "robot",
