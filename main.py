@@ -9,7 +9,7 @@ pages = {
 
 with st.sidebar:
     selected = option_menu(
-        menu_title = "Learn Python",
+        menu_title = "Job. Data",
         options = list(pages.keys()),
         icons = ["house", "person-arms-up", "book"],
         menu_icon = "robot",
