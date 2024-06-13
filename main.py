@@ -3,6 +3,8 @@ import streamlit as st
 from pathlib import Path
 from streamlit_option_menu import option_menu
 from Canadajobs import canada
+st.set_page_config(page_title="Job Listings!!", layout="wide")
+
 pages = {
     "Canada Jobs": canada,
 }
