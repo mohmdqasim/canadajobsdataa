@@ -4,7 +4,7 @@ import pandas as pd
 
 
 def canada():
-    st.set_page_config(page_title="Job Listings!!", layout="wide")
+    
     # Directory containing the markdown files
     directory = 'Jobs'
     # List all markdown files in the directory
