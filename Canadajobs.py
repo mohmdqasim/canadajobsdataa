@@ -6,7 +6,7 @@ def canada():
     # Directory containing the markdown files
     directory = 'Jobs'
     # List all markdown files in the directory
-    markdown_files = [f for f in os.listdir(directory) if f.endswith('.md')]
+    markdown_files = [f for f in os.listdir(directory) if f.endswith('.csv')]
     # Streamlit application
     st.title('Job Listings!!')
     # Display the list of markdown files in a sidebar
