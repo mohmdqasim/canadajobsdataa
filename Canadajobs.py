@@ -1,5 +1,6 @@
 import os
 import streamlit as st
+import pandas as pd
 st.set_page_config(page_title="Job Listings!!", layout="wide")
 
 def canada():
