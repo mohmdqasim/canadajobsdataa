@@ -1,11 +1,21 @@
 import pandas as pd
 import streamlit as st
 from pathlib import Path
+from streamlit_option_menu import option_menu
+from Canadajobs import canada
+pages = {
+    "Canada Jobs": canada,
+}
+
+with st.sidebar:
+    selected = option_menu(
+        menu_title = "Learn Python",
+        options = list(pages.keys()),
+        icons = ["house", "person-arms-up", "book"],
+        menu_icon = "robot",
+        default_index = 0
+    )
+
+pages[selected]()
 
 
-st.set_page_config(page_title="Job Listings!!", layout="wide")
-st.title("Job Portal!!")
-file = Path(__file__).parent / "Jobs/IT.csv"
-df = pd.read_csv(file)
-
-st.dataframe(df, height=1500)
