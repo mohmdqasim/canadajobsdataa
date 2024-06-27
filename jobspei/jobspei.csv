@@ -1,10 +1,11 @@
 Job Title,Job ID,Location,Department,Posted Date,Close Date
 Administrative Support Worker,161033,Charlottetown,TP/Hwy S&IT/Promotion of Hway,06/26/2024,07/12/2024
+Mgr Programs&CommIntregration,163513,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/26/2024,07/12/2024
 Bilingual Customer Service Representative,163050,Charlottetown,TP/AccessPEI/Riverside Dr. Acc,06/25/2024,07/11/2024
 Représentante ou représentant bilingue du service à la clientèle,163050,Charlottetown,TP/AccessPEI/Riverside Dr. Acc,06/25/2024,07/11/2024
 Biligual French Curriculum Evaluation Leader,163434,Summerside,ED/FEPS/Frnch InnovEdPrgs,06/24/2024,07/04/2024
 Executive Administrative Assistant,162599,Charlottetown,AF/DeptMgmt/Corporate Services,06/24/2024,07/10/2024
-Manager, Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
+Manager Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
 Professional Officer 18,163470,Charlottetown,HC/DM/Corp Mgmt,06/24/2024,07/10/2024
 Responsable bilingue de l¿évaluation du programme d¿études français,163434,Summerside,ED/FEPS/Frnch InnovEdPrgs,06/24/2024,07/04/2024
 Sexual Violence Prevention and Response Coordinator,163351,Charlottetown,WO/Interminist Women's Sec,06/24/2024,07/10/2024
@@ -52,7 +53,7 @@ Social Worker,162564,Charlottetown,SS/Child & Family Services,05/02/2024,Open Un
 Transport Driver,162575,Multiple,SS/Child & Family Services,05/02/2024,Open Until Filled
 Environmental Health Officer,161073,Charlottetown,HE/CPHO/Environmental Health,04/26/2024,Open Until Filled
 Medical Physicist,160829,Charlottetown,HS/HSPF/HP/QEH/Diag Imag Admin,04/26/2024,Open Until Filled
-Mgr Clinical Serv, Prov Renal,160513,Charlottetown,HS/CHSC/Hemodialysis-QEH,04/08/2024,Open Until Filled
+Mgr Clinical Serv Prov Renal,160513,Charlottetown,HS/CHSC/Hemodialysis-QEH,04/08/2024,Open Until Filled
 Bilingual Judicial Clerk,160504,Georgetown,AG/FL&CS/Court Services,03/06/2024,Open Until Filled
 Commis judiciaire bilingue,160504,Georgetown,AG/FL&CS/Court Services,03/06/2024,Open Until Filled
 Dentist,159981,Charlottetown,HS/CHSC/PH/Dental Services,11/29/2023,Open Until Filled
@@ -69,7 +70,7 @@ Clinical Intake Therapist,162735,Montague,HS/MH&A/ComMentalHlth-East,06/26/2024,
 Dietitian 17A,162379,Charlottetown,HS/HSPF/SP/QEH/Nutrition Serv,06/26/2024,07/12/2024
 LPN - Replacement,162083,Alberton,HS/HSPF/CommH/Nrsg Replacement,06/26/2024,07/12/2024
 LPN - Replacement,159320,O'Leary,HS/HSPF/CommH/Nrsg Replacement,06/26/2024,07/12/2024
-Mgr, Programs&CommIntregration,163513,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/26/2024,07/12/2024
+Mgr Programs&CommIntregration,163513,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/26/2024,07/12/2024
 Patient Care Worker (Unit 1),163382,Charlottetown,HS/HSPF/NS/QEH/Nrsg Unit 1,06/26/2024,07/12/2024
 Préposée ou préposé aux soins bilingue,162965,Charlottetown,HS/CHSC/BGH/Harbour,06/26/2024,07/12/2024
 RN 2 - Replacement,163536,Summerside,HS/CHSC/WedgewoodM/NrsgReplace,06/26/2024,07/12/2024
@@ -79,8 +80,8 @@ Clinical Supervisor (SW20),163307,Charlottetown,HS/MH&A/Richmond Centre,06/25/20
 Medical Radiation Technologist 2 - MRI,163492,Charlottetown,HS/HSPF/HP/QEH/MRI Unit,06/25/2024,07/11/2024
 Medical Secretary 2,161190,Charlottetown,HS/CHSC/Networks-Queens East,06/25/2024,Open Until Filled
 Patient Care Worker,163332,Alberton,HS/HSPF/WesternH/AcuteCare Nrs,06/25/2024,07/11/2024
-Registered Nurse 1 (QEH, Emergency),163172,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
-Registered Nurse 1 (QEH, Emergency),163171,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
+Registered Nurse 1 (QEH Emergency),163172,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
+Registered Nurse 1 (QEH Emergency),163171,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
 Registered Nurse 2,163277,Summerside,HS/CHSC/WedgewoodM/LTC Nursing,06/25/2024,Open Until Filled
 Registered Nurse 3,162867,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/25/2024,Open Until Filled
 Resident Care Worker,160150,Souris,HS/CHSC/ColvilleM/LTC Nursing,06/25/2024,07/11/2024
@@ -92,7 +93,7 @@ Executive Administrative Assistant,162599,Charlottetown,AF/DeptMgmt/Corporate Se
 INFECTION CONTROL NURSE (Registered Nurse 3),163461,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/24/2024,07/10/2024
 LPN,162056,O'Leary,HS/CHSC/MSEH/LTC Nursing,06/24/2024,07/10/2024
 LPN (Female Only),159973,Charlottetown,HS/MH&A/NS/HH/UnitC-PreDischrg,06/24/2024,07/10/2024
-Manager, Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
+Manager Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
 Mental Health Social WorkerL19,163329,Charlottetown,HS/MH&A/Yth Mental Hlth & A,06/24/2024,07/10/2024
 Occupational Therapist 2,163295,O'Leary,HS/HSPF/CommH/Physio & Occ T,06/24/2024,Open Until Filled
 Registered Nurse 1,163317,Alberton,HS/HSPF/WesternH/Emergency,06/24/2024,Open Until Filled
@@ -118,7 +119,7 @@ Clinical Intake Therapist,162735,Montague,HS/MH&A/ComMentalHlth-East,06/26/2024,
 Dietitian 17A,162379,Charlottetown,HS/HSPF/SP/QEH/Nutrition Serv,06/26/2024,07/12/2024
 LPN - Replacement,162083,Alberton,HS/HSPF/CommH/Nrsg Replacement,06/26/2024,07/12/2024
 LPN - Replacement,159320,O'Leary,HS/HSPF/CommH/Nrsg Replacement,06/26/2024,07/12/2024
-Mgr, Programs&CommIntregration,163513,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/26/2024,07/12/2024
+Mgr Programs&CommIntregration,163513,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/26/2024,07/12/2024
 Patient Care Worker (Unit 1),163382,Charlottetown,HS/HSPF/NS/QEH/Nrsg Unit 1,06/26/2024,07/12/2024
 Préposée ou préposé aux soins bilingue,162965,Charlottetown,HS/CHSC/BGH/Harbour,06/26/2024,07/12/2024
 RN 2 - Replacement,163536,Summerside,HS/CHSC/WedgewoodM/NrsgReplace,06/26/2024,07/12/2024
@@ -128,8 +129,8 @@ Clinical Supervisor (SW20),163307,Charlottetown,HS/MH&A/Richmond Centre,06/25/20
 Medical Radiation Technologist 2 - MRI,163492,Charlottetown,HS/HSPF/HP/QEH/MRI Unit,06/25/2024,07/11/2024
 Medical Secretary 2,161190,Charlottetown,HS/CHSC/Networks-Queens East,06/25/2024,Open Until Filled
 Patient Care Worker,163332,Alberton,HS/HSPF/WesternH/AcuteCare Nrs,06/25/2024,07/11/2024
-Registered Nurse 1 (QEH, Emergency),163172,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
-Registered Nurse 1 (QEH, Emergency),163171,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
+Registered Nurse 1 (QEH Emergency),163172,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
+Registered Nurse 1 (QEH Emergency),163171,Charlottetown,HS/HSPF/NS/QEH/Nrsg Emergency,06/25/2024,Open Until Filled
 Registered Nurse 2,163277,Summerside,HS/CHSC/WedgewoodM/LTC Nursing,06/25/2024,Open Until Filled
 Registered Nurse 3,162867,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/25/2024,Open Until Filled
 Resident Care Worker,160150,Souris,HS/CHSC/ColvilleM/LTC Nursing,06/25/2024,07/11/2024
@@ -141,7 +142,7 @@ Executive Administrative Assistant,162599,Charlottetown,AF/DeptMgmt/Corporate Se
 INFECTION CONTROL NURSE (Registered Nurse 3),163461,Charlottetown,HS/MH&A/NS/HH/Nrsg Admin,06/24/2024,07/10/2024
 LPN,162056,O'Leary,HS/CHSC/MSEH/LTC Nursing,06/24/2024,07/10/2024
 LPN (Female Only),159973,Charlottetown,HS/MH&A/NS/HH/UnitC-PreDischrg,06/24/2024,07/10/2024
-Manager, Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
+Manager Emergency Measures Organization,163367,Charlottetown,AG/PS&P/Emergency Measures,06/24/2024,07/10/2024
 Mental Health Social WorkerL19,163329,Charlottetown,HS/MH&A/Yth Mental Hlth & A,06/24/2024,07/10/2024
 Occupational Therapist 2,163295,O'Leary,HS/HSPF/CommH/Physio & Occ T,06/24/2024,Open Until Filled
 Registered Nurse 1,163317,Alberton,HS/HSPF/WesternH/Emergency,06/24/2024,Open Until Filled
@@ -403,7 +404,7 @@ Psychologist L20B,161368,Charlottetown,HS/MH&A/HP/HH/Psychology,04/09/2024,Open 
 Registered Nurse 1,159794,Alberton,HS/HSPF/WesternH/AcuteCare Nrs,04/09/2024,Open Until Filled
 Registered Nurse 1,162019,Charlottetown,HS/HSPF/NS/QEH/Nrsg Unit 1,04/09/2024,Open Until Filled
 (Temp) Nurse Practitioner (Primary Care Access Clinic),161926,Montague,HS/CHSC/FHC/Montague-East,04/08/2024,Open Until Filled
-Mgr Clinical Serv, Prov Renal,160513,Charlottetown,HS/CHSC/Hemodialysis-QEH,04/08/2024,Open Until Filled
+Mgr Clinical Serv Prov Renal,160513,Charlottetown,HS/CHSC/Hemodialysis-QEH,04/08/2024,Open Until Filled
 Registered Nurse 1  (Intensive Care Unit),162051,Summerside,HS/HSPF/NS/PCH/Nursing-ICU,04/08/2024,Open Until Filled
 Registered Nurse 2   (Clinical Leader - Intensive Care Unit),161337,Summerside,HS/HSPF/NS/PCH/Nursing-ICU,04/08/2024,Open Until Filled
 Casual Service Worker 1,162161,Undefined location,HEALTH PEI,04/05/2024,Open Until Filled
@@ -411,11 +412,11 @@ Registered Nurse 2,159182,Summerside,HS/MH&A/MASST Three Oaks,04/05/2024,Open Un
 Cas Med Rad Technologist 1,162138,Charlottetown,HS/HSPF/HP/QEH/Diag Imag Admin,04/04/2024,Open Until Filled
 RN 2 - Replacement,161931,O'Leary,HS/CHSC/MSEH/Nrsg Replacement,04/03/2024,Open Until Filled
 Radiation Therapist - Cancer Treatment Centre,161768,Charlottetown,HS/HSPF/HP/QEH/PEI Cancer Trea,04/03/2024,Open Until Filled
-Registered Nurse 2 (Clinical Lead) - Provincial Rehabilitation Unit, Unit 7,161774,Charlottetown,HS/HSPF/NS/QEH/Nrsg Unit 7,04/03/2024,Open Until Filled
+Registered Nurse 2 (Clinical Lead) - Provincial Rehabilitation Unit Unit 7,161774,Charlottetown,HS/HSPF/NS/QEH/Nrsg Unit 7,04/03/2024,Open Until Filled
 (3) Registered Nurse 3 - Summer Relief,161909,Charlottetown,HS/MH&A/NS/HH/Nrsg Casual,04/02/2024,Open Until Filled
 Registered Nurse 4 (Nurse Supervisor),161900,Summerside,HS/HSPF/NS/PCH/Nrsg-Admin.,04/02/2024,Open Until Filled
-Registered Nurse 1 (QEH, ICU/CCU/PCU),161622,Charlottetown,HS/HSPF/NS/QEH/Nrsg ICU CCU,03/28/2024,Open Until Filled
-Registered Nurse 1 (QEH, ICU/CCU/PCU),161621,Charlottetown,HS/HSPF/NS/QEH/Nrsg ICU CCU,03/28/2024,Open Until Filled
+Registered Nurse 1 (QEH ICU/CCU/PCU),161622,Charlottetown,HS/HSPF/NS/QEH/Nrsg ICU CCU,03/28/2024,Open Until Filled
+Registered Nurse 1 (QEH ICU/CCU/PCU),161621,Charlottetown,HS/HSPF/NS/QEH/Nrsg ICU CCU,03/28/2024,Open Until Filled
 RN 1 - Replacement,161848,Souris,HS/HSPF/KCMH/Nrsg Replacement,03/27/2024,Open Until Filled
 Casual Food Service Mgr L14,160667,Charlottetown,HS/CHSC/SP/BGH/Nutrition,03/26/2024,Open Until Filled
 Registered Nurse 1,161587,Summerside,HS/HSPF/NS/PCH/Nursing-ICU,03/26/2024,Open Until Filled
@@ -604,11 +605,11 @@ Grade 3/4 Teacher @ Morell Consolidated,163529,Public Schools Branch,ESB/Sch/MRL
 Grade 4 French Immersion Teacher @ Bloomfield,163535,Public Schools Branch,ESB/Sch/WSTF/Bloomfield/Instrc,06/25/2024,06/27/2024
 Grade 4 Teacher @ Eliot River,163527,Public Schools Branch,ESB/Sch/BFDF/EliotRivr/Instrct,06/25/2024,06/27/2024
 Grade 4/5 Teacher @ Southern Kings,163528,Public Schools Branch,ESB/Sch/MTGF/SouthKings/Admin,06/25/2024,06/27/2024
-Grade 7, 8 & 9 Language Arts Teacher @ Hernewood,163531,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
-Grade 7,8,9 Core French and Grade 8,9 French Immersion Social Studies Teacher @ Hernewood,163540,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
+Grade 7 8 & 9 Language Arts Teacher @ Hernewood,163531,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
+Grade 7 8 9 Core French and Grade 8 9 French Immersion Social Studies Teacher @ Hernewood,163540,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
 Indigenous Support Teacher @ Morell Consolidated,163087,Public Schools Branch,ESB/Sch/MRLF/MorellCns/Instrct,06/25/2024,06/27/2024
 Music Teacher @ Montague Consolidated,163534,Public Schools Branch,ESB/Sch/MTGF/MontagCns/Instrct,06/25/2024,06/27/2024
-Phys Ed and Gr 7-9 Science, Social Studies and Exploratory Teacher @ Hernewood,163533,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
+Phys Ed and Gr 7-9 Science Social Studies and Exploratory Teacher @ Hernewood,163533,Public Schools Branch,ESB/Sch/WSTF/Hernewood/Instrct,06/25/2024,06/27/2024
 Prince Street Elementary-Educational Assistant,163507,Public Schools Branch,ESB/Sch/CLGF/PrinceSt./EduSup,06/25/2024,07/02/2024
 Relief Educational Assistant - Alberton Elementary,163489,Public Schools Branch,ESB/Sch/WSTF/Alberton/EduSup,06/25/2024,07/02/2024
 Relief Educational Assistant - Alberton Elementary,163493,Public Schools Branch,ESB/Sch/WSTF/Alberton/EduSup,06/25/2024,07/02/2024
