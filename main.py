@@ -6,6 +6,7 @@ from Canadajobs import canada
 from GovtJobs import govt
 from nova_scotia import nova
 from nbjobs import nbj
+from jobspei import peijobs
 
 st.set_page_config(page_title="Job Listings!!", layout="wide")
 
@@ -14,6 +15,7 @@ pages = {
     "Nova Sotia": nova,
     "NbJobs": nbj,
     "Govt Jobs": govt,
+    "Jobs Pei": peijobs,
 }
 
 with st.sidebar:
