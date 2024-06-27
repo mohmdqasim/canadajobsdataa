@@ -11,7 +11,7 @@ st.set_page_config(page_title="Job Listings!!", layout="wide")
 pages = {
     "Canada Jobs": canada,
     "Govt Jobs": govt,
-    "Nova Sotia", nova,
+    "Nova Sotia": nova,
 }
 
 with st.sidebar:
