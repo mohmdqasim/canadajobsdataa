@@ -6,7 +6,7 @@ import pandas as pd
 def govt():
     
     # Directory containing the markdown files
-    directory = 'GovtJobs'
+    directory = 'Jobs'
     # List all markdown files in the directory
     csv_files = [f for f in os.listdir(directory) if f.endswith('.csv')]
     # Streamlit application
