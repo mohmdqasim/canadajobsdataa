@@ -7,6 +7,7 @@ from GovtJobs import govt
 from nova_scotia import nova
 from nbjobs import nbj
 from jobspei import peijobs
+from IndeedJobs import indeed
 
 st.set_page_config(page_title="Job Listings!!", layout="wide")
 
@@ -16,6 +17,7 @@ pages = {
     "NbJobs": nbj,
     "Govt Jobs": govt,
     "Jobs Pei": peijobs,
+    "Indeed Jobs": indeed,
 }
 
 with st.sidebar:
