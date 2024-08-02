@@ -4,8 +4,7 @@ import pandas as pd
 from df_global_search import DataFrameSearch
 
 
-def nbj():
-    
+def nova():
     # Directory containing the markdown files
     directory = 'nova_scotia'
     # List all markdown files in the directory

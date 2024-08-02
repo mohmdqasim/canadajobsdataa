@@ -4,7 +4,7 @@ import pandas as pd
 from df_global_search import DataFrameSearch
 
 
-def nbj():
+def peijobs():
     
     # Directory containing the markdown files
     directory = 'jobspei'
